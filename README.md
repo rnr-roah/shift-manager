@@ -10,9 +10,9 @@ Download the app folder from <a href="https://drive.google.com/drive/folders/125
 
 ## 📸 Screenshots
 
-![Screenshots](ss1.png)
-![Screenshots](ss2.png)
-![Screenshots](ss3.png)
+![Screenshots](https://github.com/rnr-roah/shift-manager/blob/main/ss1.png)
+![Screenshots](https://github.com/rnr-roah/shift-manager/blob/main/ss2.png)
+![Screenshots](https://github.com/rnr-roah/shift-manager/blob/main/ss3.png)
 
 ## 🚀 Getting Started
 
