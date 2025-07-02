@@ -1,5 +1,5 @@
 # Shift Manager 
-
+Download the app folder from <a href="https://drive.google.com/drive/folders/125PdF6YDXAK0VngEOm20_TQGHY1-y7np?usp=drive_link">here</a>
 ## ✨ Features
 
 - 📝 Add, edit, and delete employee shift records
