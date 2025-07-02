@@ -1,7 +1,59 @@
-# Shift Manager
+# Shift Manager 
+
+## ✨ Features
+
+- 📝 Add, edit, and delete employee shift records
+- 📅 Track work hours, days, and timings
+- 💾 Data persists locally (using `localStorage`)
+- 💻 Cross-platform (Windows, Linux, macOS) via Electron
+- 📦 One-click `.exe` installer using Electron Builder
+
+## 📸 Screenshots
+
 ![Screenshots](ss1.png)
 ![Screenshots](ss2.png)
 ![Screenshots](ss3.png)
-### I started on this idea when I was back home and working at a local restaurant shop and they paid me hourly, but they didnt have automatic shift and hour calculating systems so i made it myself for myself.
-### The app is free for everyone to use you can visit my google drive link and download the app <a href="https://drive.google.com/drive/folders/125PdF6YDXAK0VngEOm20_TQGHY1-y7np"> here</a>
-### Download the <strong>WHOLE</strong> folder and run the ShiftManager.exe file and you should be good to go. You can copy the app shortcut file and paste it in your desktop and you can pin the opened app in your taskbar for the ease of use.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18+ recommended)
+- [Electron](https://www.electronjs.org/)
+- Git
+
+
+## 🧱 Tech Stack
+
+- HTML, CSS, JavaScript (Vanilla)
+- [Electron](https://www.electronjs.org/) — Desktop application framework
+- [Electron Builder](https://www.electron.build/) — Packaging and installer
+
+## 📂 Project Structure
+
+```
+shift-manager/
+├── assets/              # App icons and images
+├── main.js              # Electron main process
+├── index.html           # App UI
+├── renderer.js          # Renderer logic
+├── package.json         # Project config
+```
+
+## 📌 Roadmap
+
+- [ ] Add dark mode
+- [ ] Export to CSV/PDF
+- [ ] Cloud sync (optional)
+- [ ] Weekly/monthly schedule views
+
+## 🙋‍♂️ Author
+
+**Roah**  
+🌐 [Portfolio](https://portfolio-rohitshah.web.app)  
+📝 [Tech Blog](https://portfolio-rohitshah.web.app/blog.html)
+
+## 🪪 License
+
+MIT License.  
+Feel free to fork, modify, and contribute!
